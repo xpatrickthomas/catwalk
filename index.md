@@ -87,7 +87,7 @@ You can also use words, to fit your writing style more closely[^note].
     This footnote also has been made with a different syntax using 4 spaces for new lines.
 
 
-<details>
+<details open>
 <summary>My top THINGS-TO-RANK</summary>
 
 Item 1 <br>

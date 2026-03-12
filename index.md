@@ -90,13 +90,13 @@ You can also use words, to fit your writing style more closely[^note].
 <details>
 <summary>My top THINGS-TO-RANK</summary>
 
-Item 1
-Item 2
-Item 3
-Item 4
-Item 5
-Item 6
-Item 7
+Item 1 <br>
+Item 2 <br>
+Item 3 <br>
+Item 4 <br>
+Item 5 <br>
+Item 6 <br>
+Item 7 <br>
 
 </details>
    

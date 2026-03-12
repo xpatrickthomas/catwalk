@@ -9,6 +9,9 @@
 **[Chapter 3](#chapter-3)** <br>
 **[Chapter 4](#chapter-4)** <br>
 
+This text is <ins>underlined</ins>
+<u>Important text</u>
+
 ~~Scratch this.~~ <br>
 ~~Scratch this.~~ <br>
 ~~Scratch this.~~ <br>

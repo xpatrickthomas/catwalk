@@ -10,7 +10,11 @@
 **[Chapter 4](#chapter-4)** <br>
 
 This text is <ins>underlined</ins>
-<u>Important text</u>
+
+## Project Title
+
+<u>Important notice:</u> Please read the documentation.
+
 
 ~~Scratch this.~~ <br>
 ~~Scratch this.~~ <br>

@@ -11,11 +11,6 @@
 
 This text is <ins>underlined</ins>
 
-## Project Title
-
-<u>Important notice:</u> Please read the documentation.
-
-
 ~~Scratch this.~~ <br>
 ~~Scratch this.~~ <br>
 ~~Scratch this.~~ <br>

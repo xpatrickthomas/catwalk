@@ -90,7 +90,13 @@ You can also use words, to fit your writing style more closely[^note].
 <details>
 <summary>My top THINGS-TO-RANK</summary>
 
-YOUR TABLE
+Item 1
+Item 2
+Item 3
+Item 4
+Item 5
+Item 6
+Item 7
 
 </details>
    

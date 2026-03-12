@@ -64,6 +64,13 @@
 ## Chapter 3
 ## Chapter 4
 
+
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
 Here is a simple footnote[^1].
 
 A footnote can also have multiple lines[^2].  
